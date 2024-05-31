@@ -1,8 +1,8 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-	"name": "L-CAS Humble Devcontainer",
-	"dockerFile": "./Dockerfile",
+	"name": "L-CAS SPS Foxy",
+	"dockerFile": "Dockerfile",
 	"context": "..",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
